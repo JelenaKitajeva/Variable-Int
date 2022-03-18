@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\UserData\DrivingLicence\bin\Debug\net5.0\DrivingLicence.exe
+C:\Users\lena_\source\repos\UserData\DrivingLicence\bin\Debug\net5.0\DrivingLicence.deps.json
+C:\Users\lena_\source\repos\UserData\DrivingLicence\bin\Debug\net5.0\DrivingLicence.runtimeconfig.json
+C:\Users\lena_\source\repos\UserData\DrivingLicence\bin\Debug\net5.0\DrivingLicence.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\UserData\DrivingLicence\bin\Debug\net5.0\DrivingLicence.dll
+C:\Users\lena_\source\repos\UserData\DrivingLicence\bin\Debug\net5.0\ref\DrivingLicence.dll
+C:\Users\lena_\source\repos\UserData\DrivingLicence\bin\Debug\net5.0\DrivingLicence.pdb
+C:\Users\lena_\source\repos\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.AssemblyInfo.cs
+C:\Users\lena_\source\repos\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.dll
+C:\Users\lena_\source\repos\UserData\DrivingLicence\obj\Debug\net5.0\ref\DrivingLicence.dll
+C:\Users\lena_\source\repos\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.pdb
+C:\Users\lena_\source\repos\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.genruntimeconfig.cache

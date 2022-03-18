@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\UserData\UserPin\bin\Debug\net5.0\UserPin.exe
+C:\Users\lena_\source\repos\UserData\UserPin\bin\Debug\net5.0\UserPin.deps.json
+C:\Users\lena_\source\repos\UserData\UserPin\bin\Debug\net5.0\UserPin.runtimeconfig.json
+C:\Users\lena_\source\repos\UserData\UserPin\bin\Debug\net5.0\UserPin.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\UserData\UserPin\bin\Debug\net5.0\UserPin.dll
+C:\Users\lena_\source\repos\UserData\UserPin\bin\Debug\net5.0\ref\UserPin.dll
+C:\Users\lena_\source\repos\UserData\UserPin\bin\Debug\net5.0\UserPin.pdb
+C:\Users\lena_\source\repos\UserData\UserPin\obj\Debug\net5.0\UserPin.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\UserData\UserPin\obj\Debug\net5.0\UserPin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\UserData\UserPin\obj\Debug\net5.0\UserPin.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\UserData\UserPin\obj\Debug\net5.0\UserPin.AssemblyInfo.cs
+C:\Users\lena_\source\repos\UserData\UserPin\obj\Debug\net5.0\UserPin.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\UserData\UserPin\obj\Debug\net5.0\UserPin.dll
+C:\Users\lena_\source\repos\UserData\UserPin\obj\Debug\net5.0\ref\UserPin.dll
+C:\Users\lena_\source\repos\UserData\UserPin\obj\Debug\net5.0\UserPin.pdb
+C:\Users\lena_\source\repos\UserData\UserPin\obj\Debug\net5.0\UserPin.genruntimeconfig.cache
